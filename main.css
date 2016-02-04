@@ -70,13 +70,13 @@ hr {
 .leftColumn {
 	width: 16%;
 	margin: 0;
-	margin-left: 60px;
+	margin-left: 40px;
 	float: left;
 	display: inline;
 }
 
 .rightColumn {
-	width: 54%;
+	width: 75%;
 	float: left;
 	display: inline;
 }
