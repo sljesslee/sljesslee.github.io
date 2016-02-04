@@ -1,0 +1,94 @@
+body {
+
+	font: 60.5%/1.4 Arial, Helvetica, sans-serif;
+	background-color: #1481A6;
+}
+
+.clear {
+	clear: both;
+}
+
+li {
+	list-style: none;
+	font-size: 1.5em;
+}
+
+#container {
+	width: 70%;
+	margin: 0px auto;
+	background-color: #eee;
+	padding: 0px;
+}
+
+header h1 {
+	width: 100%;
+	color: white;
+	background-color: gray;
+	clear: left;
+	text-align: center;
+	font-size: 50px;
+	}
+
+header h2 {
+	color: #075975;
+	font-size: 20px;
+	margin-bottom: 3px;
+}
+
+header li {
+	color: #075975;
+	font-size: 1.4em;
+	line-height: 18px;
+	float: right;
+	clear: right;
+	margin-right: 30px;
+}
+
+hr {
+	margin-top: 20px;
+}
+
+.content {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 20px;
+}
+
+.content h2 {
+	font-size: 1.8em;
+	margin-left: 80px;
+	margin-bottom: 0;
+}
+
+.summary p {
+	font-size: 1.4em;
+	margin-left: 80px;
+	margin-right: 40px;
+}
+
+.leftColumn {
+	width: 16%;
+	margin: 0;
+	margin-left: 60px;
+	float: left;
+	display: inline;
+}
+
+.rightColumn {
+	width: 54%;
+	float: left;
+	display: inline;
+}
+
+footer h6 {
+	width: 100%;
+	height: 2em;
+	line-height: 2em;
+	color: white;
+	border: 1px solid gray;
+	background-color: gray;
+	clear: right;
+	font-size: 2em;
+	text-align: center;
+}
